@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Hi there, I'm Hedieh <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
+
+<p>Frontend Developer | React & Next.js Enthusiast </p>
+
 <!--
 **hedieh-heydari/hedieh-heydari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
