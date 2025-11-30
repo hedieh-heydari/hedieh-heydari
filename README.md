@@ -27,7 +27,7 @@ Frontend Developer | React & Next.js Enthusiast
 </a>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,nextjs,npm,postman,git,github,gitlab,azure" />
+  <img src="https://skillicons.dev/icons?i=vscode,npm,postman,git,github,gitlab,azure" />
 </a>
 
 </div>
